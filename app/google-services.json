@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "111541852028",
+    "firebase_url": "https://admiission.firebaseio.com",
+    "project_id": "admiission",
+    "storage_bucket": "admiission.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111541852028:android:ccfa2b46917323fc",
+        "android_client_info": {
+          "package_name": "com.example.om.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111541852028-o42lentsadkqojli91gnofetn96b22uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGS3A5r3zky92hT9MMJkOD5K00luHdl_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111541852028:android:ab16e554ee029e5c",
+        "android_client_info": {
+          "package_name": "com.example.salmangeforce.food_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111541852028-5an7mc14jjda985vj3v3ks3j27h9eops.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salmangeforce.food_order",
+            "certificate_hash": "3f645d665c2b319f2410bb7e5cf781bc797e4088"
+          }
+        },
+        {
+          "client_id": "111541852028-o42lentsadkqojli91gnofetn96b22uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGS3A5r3zky92hT9MMJkOD5K00luHdl_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111541852028-o42lentsadkqojli91gnofetn96b22uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111541852028:android:bf9c15fc84d7625a",
+        "android_client_info": {
+          "package_name": "it.hueic.kenhoang.orderfoods_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111541852028-q2nilq62kpfiineomd65mp5s763109in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.hueic.kenhoang.orderfoods_app",
+            "certificate_hash": "3f645d665c2b319f2410bb7e5cf781bc797e4088"
+          }
+        },
+        {
+          "client_id": "111541852028-o42lentsadkqojli91gnofetn96b22uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGS3A5r3zky92hT9MMJkOD5K00luHdl_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111541852028-o42lentsadkqojli91gnofetn96b22uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
